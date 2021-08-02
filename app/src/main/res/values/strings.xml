@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gestão Financeira</string>
+    <string name="form_error_required">Campo obrigatório</string>
+    <string name="form_error_password_confirm">Senha e confirmação de senha não coincidem</string>
+</resources>
